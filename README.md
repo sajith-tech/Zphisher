@@ -79,14 +79,13 @@ $ zphisher
 ##
 
 <p align="left">
-  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/htr-tech/zphisher.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
+  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/sajith-tech/Zphisher.gi&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
 </p>
 
 ##
 
 ### Installation via ".deb" file
 
-- Download `.deb` files from the [**Latest Release**](https://github.com/htr-tech/zphisher/releases/latest)
 - If you are using ***termux*** then download the `*_termux.deb`
 
 - Install the `.deb` file by executing
@@ -113,7 +112,7 @@ $ zphisher
     docker pull ghcr.io/htr-tech/zphisher:latest
     ```
 
-- By using the wrapper script [**run-docker.sh**](https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh)
+- By using the wrapper script [**run-docker.sh**](https://github.com/sajith-tech/Zphisher/blob/main/run-docker.sh)
 
   ```
   $ curl -LO https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh
