@@ -1,7 +1,7 @@
 <!-- Zphisher -->
 
 <p align="center">
-  <img src=".github/misc/logo.png">
+  <img src="https://khalidhusain786.data.blog/wp-content/uploads/2022/01/wf.gif">
 </p>
 
 <p align="center">
